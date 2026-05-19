@@ -1,0 +1,3 @@
+10023213,Napa Extra,Tablet,25,120
+12123123,Monas 10,Tablet,22,46
+21324213,Seclo 20,Capsule,18,80
